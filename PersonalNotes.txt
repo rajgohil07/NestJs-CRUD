@@ -1,0 +1,14 @@
+Install it using below command
+npm i -g @nestjs/cli
+
+create new project use below command
+npx nest new project-name
+
+To create a controller using the CLI, simply execute the below command
+npx nest g controller cats
+
+To create a service using the CLI, simply execute the below command
+npx nest g service cats 
+
+To create a module using the CLI, simply execute the below command
+npx nest g module cats
