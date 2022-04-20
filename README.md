@@ -4,33 +4,28 @@ CRUD with postgres using NestJs Freamwork
 
 ## Useful notes
 
-# Install it using below command
-
 ```bash
-  npm i -g @nestjs/cli<\b>
+# Install it using below command
+  npm i -g @nestjs/cli
 ```
 
-# create new project use below command
-
 ```bash
+# create new project use below command
   npx nest new project-name
 ```
 
-# To create a controller using the CLI, simply execute the below command
-
 ```bash
+# To create a controller using the CLI, simply execute the below command
   npx nest g controller controller_name
 ```
 
-# To create a service using the CLI, simply execute the below command
-
 ```bash
+# To create a service using the CLI, simply execute the below command
   npx nest g service service_name
 ```
 
-# To create a module using the CLI, simply execute the below command
-
 ```bash
+# To create a module using the CLI, simply execute the below command
   npx nest g module module_name
 ```
 
